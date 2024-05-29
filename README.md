@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://github.com/umutminarli/umutminarli/assets/54308767/d279c5c3-9f2e-4e50-a81e-ce3290bb26f1)
+![header](https://github.com/umutminarli/umutminarli/assets/54308767/fc04b557-ffcb-491b-ac97-b0f53af01cea)
 
 
 Here are some ideas to get you started:
