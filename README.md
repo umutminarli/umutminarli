@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header2](https://github.com/umutminarli/umutminarli/assets/54308767/189512f7-025a-4e16-964e-5e40ddd2e474)
+![header2](https://github.com/umutminarli/umutminarli/assets/54308767/22f04de4-4b23-492b-a5bf-4526992b264b)
 
 
 Here are some ideas to get you started:
