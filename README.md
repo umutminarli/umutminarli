@@ -1,11 +1,12 @@
 ### Hi there 👋
+</br></br>
 
-<img width="2400" alt="header" src="https://github.com/umutminarli/umutminarli/assets/54308767/89e3fa00-31fe-48eb-9fc1-c1326d837d2a">
+![header](https://github.com/umutminarli/umutminarli/assets/54308767/d279c5c3-9f2e-4e50-a81e-ce3290bb26f1)
 
 
 </br>
 Here are some ideas to get you started:
-
+</br>
 - 🔭 I’m currently working on finance industry as a Senior UX Designer
 - 🌱 I’m currently learning about Front-end Development
 - 💬 Ask me about User Interface and User Experience Design
